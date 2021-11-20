@@ -1,2 +1,2 @@
-# sample-sandbox
+# create-sandbox
 Created with CodeSandbox
